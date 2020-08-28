@@ -12,7 +12,7 @@ class ByteBank extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    save(Contact(0, 'Dudu', 2000));
+    //save(Contact(0, 'Dudu', 2000));
     return MaterialApp(
       theme: ThemeData(
         primaryColor: Colors.green[900],
